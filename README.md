@@ -3,4 +3,8 @@
 
 ## To Install program and dependencies: 
 
-``
+`git clone https://github.com/aaravzer/LargeLangaugeModel/ && cd LargeLanguageModel && python3 -m pip -r install requirements.txt`
+
+## To Run
+
+`python3 llm.py`
