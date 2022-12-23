@@ -1,0 +1,6 @@
+numpy
+tensorflow
+re
+pandas
+requests
+bs4
